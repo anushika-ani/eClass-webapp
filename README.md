@@ -1,1 +1,1 @@
-# eClass-webapp
+# eClass Application
